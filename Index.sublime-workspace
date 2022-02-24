@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ga",
+				"gray"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"no",
+				"nota"
+			],
+			[
+				"compara",
+				"comparaNumeros"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"s",
+				"segundaFrase"
+			],
+			[
+				"r",
+				"resulato10"
+			],
+			[
+				"RE",
+				"return"
+			],
+			[
+				"com",
+				"compara20"
+			],
+			[
+				"me",
+				"menorQue10"
+			],
+			[
+				"if",
+				"ife"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"op",
+				"operacao"
+			],
+			[
+				"opc",
+				"opcao"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"fun",
+				"funcao"
+			],
+			[
+				"jogador",
+				"jogador1"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"cu",
+				"currentNumberwrapper"
+			],
+			[
+				"cur",
+				"currentNumber"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"txt",
+				"text-center"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"c",
+				"col-lg-4"
+			],
+			[
+				"ge",
+				"greenyellow"
+			],
+			[
+				"blu",
+				"aliceblue"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"l",
+				"logo"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"radio",
+				"radio-whatsap"
+			],
+			[
+				"email",
+				"E-mail"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bode",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"BOX",
+				"box-sizing"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"B",
+				"button"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"st",
+				"style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Windows/Desktop/Projeto Anabella/Index.html",
+		"/C/Users/Windows/Desktop/css/div-span.html",
+		"/C/Users/Windows/Desktop/css/index.html",
+		"/C/Users/Windows/Desktop/css/classes-ids.html",
+		"/C/Users/Windows/Desktop/css/Index.sublime-workspace",
+		"/C/Users/Windows/Desktop/Projeto Java script 2/index.html",
+		"/C/Users/Windows/Desktop/Média/media.js",
+		"/C/Program Files/Sublime Text/fu",
+		"/C/Users/Windows/Desktop/Projeto Java script 2/estyle.css",
+		"/C/Users/Windows/Desktop/Projeto Java script 2/java/desafio.js",
+		"/C/Users/Windows/Desktop/Meu primeiro Script/index.html",
+		"/C/Users/Windows/Desktop/Meu primeiro Script/java/script.js",
+		"/C/Users/Windows/Desktop/Meu primeiro Script/css e js/style.css",
+		"/C/Users/Windows/Desktop/Projeto Javascript/Index.html",
+		"/C/Users/Windows/Desktop/Projeto Javascript/css/style.css",
+		"/C/Users/Windows/Desktop/Projeto Javascript/JavaScript/Teste.js",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/CSS/style.css",
+		"/C/Users/Windows/Desktop/Projeto Javascript/css/teste.css",
+		"/C/Users/Windows/Desktop/Projeto Javascript/assets",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/Java script/teste.js",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/index.html",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/bootstrap-5.1.3-dist/css/style.css",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/CSS/estilo.css",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/CSS/gg.txt",
+		"/C/Users/Windows/Desktop/Projeto bootstrp/img/global.png",
+		"/C/Users/Windows/Desktop/Projeto Aula/Alura/Contato.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Alura/style.css",
+		"/C/Users/Windows/Desktop/Projeto Aula/Alura/Produtos.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Alura/index.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Alura/produtos.css",
+		"/C/Users/Windows/AppData/Local/Temp/Rar$DRa6336.30056/reset.css",
+		"/C/Users/Windows/Desktop/Projeto Aula/Primeiro Projeto/contato.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Primeiro Projeto/Index.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Primeiro Projeto/Projeto.html",
+		"/C/Users/Windows/Desktop/Projeto Aula/Primeiro Projeto/pop2.html",
+		"/C/Users/Windows/Desktop/pp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
